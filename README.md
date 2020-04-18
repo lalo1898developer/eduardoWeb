@@ -1,4 +1,7 @@
-# webDevelopmentBootcamp
+[![Build status](https://dev.azure.com/lalo1898jr/eduardoWeb/_apis/build/status/eduardoWeb-CI)](https://dev.azure.com/lalo1898jr/eduardoWeb/_build/latest?definitionId=1)
+
+# WebDevelopmentBootcamp
+---------
 
 [CV1.0](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/HTML-PersonalSite/index.html)
 
@@ -8,7 +11,7 @@
 
 [DOM](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/DOM/index.html)
 
-[DiceeChallenge](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/DiceeChallenge/index.html)
+[DiceeChallenge](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/DiceeChallenge/dicee.html)
 
 [Drum](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/Drum/index.html)
 

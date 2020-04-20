@@ -18,3 +18,5 @@
 [jQuery](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/jQuery/index.html)
 
 [SimonGame](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/SimonGame/index.html)
+
+[Newslatter](https://hidden-chamber-45706.herokuapp.com/)

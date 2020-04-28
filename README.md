@@ -12,13 +12,11 @@ Esta es una pequeña página web hecha con HTML5 puro. Contiene una primera vers
 ## Curriculum version2 [🔗](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/CSS-MySite/index.html)
 ---------
 Esta es una pequeña página web hecha con HTML5 y CSS3 puro. Contiene una segunda versión de un curriculum vitae.
-Para poder consultar la pagina sigue el siguiente enlace 
 
 
 ## Tinder Dog [🔗](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/Bootstrap-installation/TinDog-Start-master/index.html)
 ---------
 Esta en una pagina web hecha con Bootstrap4. Es una landing page para que "descarguen" la aplicación, la cual es una copia de Tinder, llamada Tindog.
-Para poder consultar la pagina sigue el siguiente enlace 
 
 
 ## Juego DiceeChallenge [🔗](https://lalo1898developer.github.io/eduardoWeb/WebDevelopmentBootcamp/DiceeChallenge/dicee.html)
